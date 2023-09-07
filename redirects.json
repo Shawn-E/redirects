@@ -2,5 +2,17 @@
     {
         "alias": ["/d", "/discord", "/djoin", "/discordjoin"],
         "url": "https://discord.gg/PTzQH6DsAD"
+    },
+    {
+        "alias": ["/gh", "/github", "/socials/github", "/opensource"],
+        "url": "https://github.com/Shawn-E"
+    },
+    {
+        "alias": ["/weblutions", "/p/weblutions", "web", "faxesweblutions"],
+        "url": "https://weblutions.com"
+    },
+    {
+        "alias": ["/docs", "/documentation"],
+        "url": "https://docs.shawne.dev"
     }
 ]
